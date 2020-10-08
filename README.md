@@ -1,9 +1,23 @@
-### Hi there 👋
+**I am available for online job interviews starting October 1st, 2020**
 
-I’m currently working on finishing my PhD in Economics and finding a job to keep doing research. 
+***
 
-Most of what I keep here is code related to my research projects (often private until I release the first preprint). 
+- Ph.D. Candidate in Economics (University of Wyoming)
 
-📫 Contact me if you have any questions (or job leads!).
+- Applied microeconomist
+
+   - Behavioral Economics
+   - Environmental and Resource Economics
+   - Development economics
+
+- [CV](https://www.tabarecapitan.com/assets/cv/tabareCapitan_CV.pdf) (Updated October 8th, 2020)
+
+- 📫 Tabare.Capitan@gmail.com
+
+- Links: [[google scholar](https://scholar.google.com/citations?user=uqivDeoAAAAJ&hl=en) ]
+ [[twitter](https://twitter.com/tabareCapitan) ]
+
+
+** Please do contact me if you have any questions (or job leads!)**
 
 
