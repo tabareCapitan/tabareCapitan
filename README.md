@@ -18,6 +18,6 @@
  [[twitter](https://twitter.com/tabareCapitan) ]
 
 
-** Please do contact me if you have any questions (or job leads!)**
+**Please do contact me if you have any questions (or job leads!)**
 
 
