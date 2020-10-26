@@ -10,7 +10,7 @@
    - Environmental and Resource Economics
    - Development economics
 
-- [CV](https://www.tabarecapitan.com/assets/cv/tabareCapitan_CV.pdf) (Updated October 8th, 2020)
+- [CV](https://www.tabarecapitan.com/assets/cv/tabareCapitan_CV.pdf)
 
 - 📫 Tabare.Capitan@gmail.com
 
