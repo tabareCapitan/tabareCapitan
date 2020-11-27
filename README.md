@@ -2,7 +2,7 @@
 
 ***
 
-- Ph.D. Candidate in Economics (University of Wyoming)
+- Ph.D. in Economics (University of Wyoming, Sept. 2016 - Dec. 2020)
 
 - Applied microeconomist
 
