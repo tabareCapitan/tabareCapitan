@@ -1,4 +1,4 @@
-**I'm on the market! (Available for online job interviews starting October 1st, 2020)**
+**I'm on the market!**
 
 ***
 
