@@ -1,8 +1,4 @@
-**I'm on the market!**
-
-***
-
-- Ph.D. in Economics (University of Wyoming, Sept. 2016 - Dec. 2020)
+- Ph.D. in Economics
 
 - Applied microeconomist
 
@@ -17,7 +13,5 @@
 - Links: [[google scholar](https://scholar.google.com/citations?user=uqivDeoAAAAJ&hl=en) ]
  [[twitter](https://twitter.com/tabareCapitan) ]
 
-
-**Please do contact me if you have any questions (or job leads!)**
 
 
