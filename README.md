@@ -1,10 +1,6 @@
-- Ph.D. in Economics
+- Ph.D. in Economics (Micro)
 
-- Applied microeconomist
-
-   - Behavioral Economics
-   - Environmental and Resource Economics
-   - Development economics
+- [Website](https://www.tabarecapitan.com/)
 
 - [CV](https://www.tabarecapitan.com/assets/cv/tabareCapitan_CV.pdf)
 
