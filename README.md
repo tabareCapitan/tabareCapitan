@@ -6,8 +6,7 @@
 
 - 📫 Tabare.Capitan@gmail.com
 
-- Links: [[google scholar](https://scholar.google.com/citations?user=uqivDeoAAAAJ&hl=en) ]
- [[twitter](https://twitter.com/tabareCapitan) ]
+- [[google scholar](https://scholar.google.com/citations?user=uqivDeoAAAAJ&hl=en) ]
 
 
 
