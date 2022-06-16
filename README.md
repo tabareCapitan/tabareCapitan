@@ -1,4 +1,4 @@
-- Ph.D. in Economics (Micro)
+- Ph.D. in Economics
 
 - [Website](https://www.tabarecapitan.com/)
 
