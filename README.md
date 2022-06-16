@@ -6,7 +6,7 @@
 
 - 📫 Tabare.Capitan@gmail.com
 
-- [[google scholar](https://scholar.google.com/citations?user=uqivDeoAAAAJ&hl=en) ]
+- [Google Scholar](https://scholar.google.com/citations?user=uqivDeoAAAAJ&hl=en)
 
 
 
