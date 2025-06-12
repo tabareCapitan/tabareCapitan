@@ -1,6 +1,8 @@
 **research**. data science. causal inference | phd in economics
 
+
 🟦⬜🟥🟥⬜🟦
+
 
 **Public repositories**
 
@@ -9,6 +11,8 @@
 - `snippets`: Little things I find useful
 
 - "Bite me: Towards consumers' acceptance of edible insects"
+- Pre-nudge paper...
 - ["Time-Varying Pricing May Increase Total Electricity Consumption: Evidence from Costa Rica"](https://github.com/tabareCapitan/CNFL)
+
 
 
