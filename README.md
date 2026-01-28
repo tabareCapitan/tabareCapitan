@@ -11,3 +11,7 @@ _Featured repository_
 > 
 > [Link to documentation](https://tabarecapitan.com/projects/ritest/)
 
+_More repositories_
+> [JRU paper](...): PENDING
+> 
+> [REE paper](https://github.com/tabareCapitan/CNFL): Time-Varying Pricing May Increase Total Electricity Consumption: Evidence from Costa Rica
