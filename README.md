@@ -12,7 +12,7 @@ _Featured repository_
 > [Link to documentation](https://tabarecapitan.com/projects/ritest/)
 
 _More repositories_
-> [Emergency vault](...): PENDING
+> [OSS project](...): PENDING
 >
 > [JRU paper](https://github.com/tabareCapitan/jru-2026): Show me the labels: Using pre-nudges to reduce calorie information avoidance
 > 
