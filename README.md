@@ -1,7 +1,7 @@
 **Tabaré Capitán**
 > data scientist · causal inference · experimentation
 > 
-> [website](https://tabarecapitan.com) · [blog](https://tabarecapitan.com/blog/) · [tools](https://tabarecapitan.com/tools/tools.html)
+> [website](https://tabarecapitan.com) · [blog](https://tabarecapitan.com/blog/) · [tools](https://tabarecapitan.com/tools/index.html)
 
 
 _Featured repository_
