@@ -12,6 +12,8 @@ _Featured repository_
 > [Link to documentation](https://tabarecapitan.com/projects/ritest/)
 
 _More repositories_
-> [JRU paper](...): PENDING
+> [Emergency vault](...): PENDING
+>
+> [JRU paper](https://github.com/tabareCapitan/jru-2026): Show me the labels: Using pre-nudges to reduce calorie information avoidance
 > 
 > [REE paper](https://github.com/tabareCapitan/CNFL): Time-Varying Pricing May Increase Total Electricity Consumption: Evidence from Costa Rica
