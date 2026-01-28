@@ -12,8 +12,12 @@ _Featured repository_
 > [Link to documentation](https://tabarecapitan.com/projects/ritest/)
 
 _More repositories_
-> [OSS project](...): PENDING
 >
-> [JRU paper](https://github.com/tabareCapitan/jru-2026): Show me the labels: Using pre-nudges to reduce calorie information avoidance
+> [OSS project](...): PENDING
+
+_Replication packages for [research papers](https://tabarecapitan.com/papers/index.html)_
+>
+> [JRU paper](https://github.com/tabareCapitan/jru-2026) | Show me the labels: Using pre-nudges to reduce calorie information avoidance
 > 
-> [REE paper](https://github.com/tabareCapitan/CNFL): Time-Varying Pricing May Increase Total Electricity Consumption: Evidence from Costa Rica
+> [REE paper](https://github.com/tabareCapitan/CNFL) | Time-Varying Pricing May Increase Total Electricity Consumption: Evidence from Costa Rica
+
