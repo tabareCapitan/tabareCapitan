@@ -11,9 +11,6 @@ _Featured repository_
 > 
 > [Link to documentation](https://tabarecapitan.com/projects/ritest/)
 
-_More repositories_
->
-> [OSS project](...): PENDING
 
 _Replication packages for [research papers](https://tabarecapitan.com/papers/index.html)_
 >
@@ -21,3 +18,8 @@ _Replication packages for [research papers](https://tabarecapitan.com/papers/ind
 > 
 > [REE paper](https://github.com/tabareCapitan/CNFL) | Time-Varying Pricing May Increase Total Electricity Consumption: Evidence from Costa Rica
 
+
+
+_More repositories_
+>
+> [OSS project](https://github.com/tabareCapitan/emeregency-vault): Last-resource secrets vault
