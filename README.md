@@ -19,7 +19,3 @@ _Replication packages for [research papers](https://tabarecapitan.com/papers/ind
 > [REE paper](https://github.com/tabareCapitan/CNFL) | Time-Varying Pricing May Increase Total Electricity Consumption: Evidence from Costa Rica
 
 
-
-_More repositories_
->
-> [OSS project](https://github.com/tabareCapitan/emergency-vault): Last-resource secrets vault
