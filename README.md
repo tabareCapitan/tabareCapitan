@@ -22,4 +22,4 @@ _Replication packages for [research papers](https://tabarecapitan.com/papers/ind
 
 _More repositories_
 >
-> [OSS project](https://github.com/tabareCapitan/emeregency-vault): Last-resource secrets vault
+> [OSS project](https://github.com/tabareCapitan/emergency-vault): Last-resource secrets vault
