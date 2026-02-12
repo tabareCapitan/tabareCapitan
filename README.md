@@ -11,6 +11,9 @@ _Featured repository_
 > 
 > [Link to documentation](https://tabarecapitan.com/projects/ritest/)
 
+_Set-up repository for new coding projects_
+>
+> [Fork me](https://github.com/tabareCapitan/set-up)
 
 _Replication packages for [research papers](https://tabarecapitan.com/papers/index.html)_
 >
