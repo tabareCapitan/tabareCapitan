@@ -13,7 +13,7 @@ _Featured repository_
 
 _Set-up repository for new coding projects_
 >
-> [Fork me](https://github.com/tabareCapitan/set-up)
+> [Try me!](https://github.com/tabareCapitan/set-up)
 
 _Replication packages for [research papers](https://tabarecapitan.com/papers/index.html)_
 >
